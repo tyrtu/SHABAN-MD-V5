@@ -1,12 +1,12 @@
 {
-  "name": "SHABAN-MD",
+  "name": "RAPHAEL-MD",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By MR-SHABAN",
+  "description": "A WhatsApp Bot Created By XOLOTL",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
-    "stop": "pm2 stop SHABAN-MD",
-    "restart": "pm2 restart SHABAN-MD"
+    "stop": "pm2 stop RAPHAEL-MD",
+    "restart": "pm2 restart RAPHAEL-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.16",
